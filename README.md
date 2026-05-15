@@ -20,7 +20,7 @@ As part of this collaborative effort, my core responsibilities bridged the gap b
 
 ## Repository Structure
 * `/data`: Contains the raw and processed CSV datasets, including institution rankings, subject-level data, and competitor mappings.
-* `/dashboard`: Contains the packaged Tableau workbook (`ZIS BI Dashboard.twbx`). 
+* `/dashboard`: Contains the packaged Tableau workbook (`BI Dashboard.twbx`). 
 * `/reports`: Includes the project documentation, methodology reflections, and the final presentation slides.
 
 ## Key Insights Discovered
@@ -29,4 +29,4 @@ As part of this collaborative effort, my core responsibilities bridged the gap b
 3. **Investment vs. Outcome:** Analysed the correlation between 'Spend per Student' and overall student satisfaction, revealing that from 2019-2022, higher spending did not universally correspond with higher satisfaction scores, indicating a need for strategic resource reallocation.
 
 ## How to View the Dashboard
-To interact with the dashboard, download the `ZIS BI Dashboard.twbx` file from the `/dashboard` folder and open it using Tableau Desktop or the free Tableau Reader.
+To interact with the dashboard, download the `BI Dashboard.twbx` file from the `/dashboard` folder and open it using Tableau Desktop or the free Tableau Reader.
