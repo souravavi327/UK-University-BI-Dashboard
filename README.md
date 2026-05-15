@@ -1,7 +1,5 @@
 # Business Intelligence Analysis: UK University Performance (2011-2022)
 
-[![View Video Presentation](https://img.shields.io/badge/View_Presentation-YouTube-red?style=for-the-badge&logo=youtube)]([Insert YouTube Link Here])
-
 ## Project Overview
 This Business Intelligence (BI) project analyses twelve years of higher education performance data from the Guardian University Guide League Tables (2011–2022). The objective was to design an interactive Tableau dashboard that transforms complex, multi-year datasets into actionable strategic insights, specifically focusing on the performance and competitive positioning of the University of the West of England (UWE Bristol).
 
